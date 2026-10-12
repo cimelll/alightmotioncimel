@@ -1,0 +1,1534 @@
+<!DOCTYPE html>
+<html lang="id" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aktivasi Alight Motion Premium 1 Tahun Gratis Instan | AM Prem Saurus</title>
+  <meta name="description" content="Aktivasi lisensi Alight Motion Premium resmi 1 tahun secara instan lewat magic link verifikasi. Gratis, cepat, aman, tanpa root dan tanpa mod apk.">
+  <meta name="keywords" content="alight motion premium, alight motion pro gratis, aktivasi alight motion, magic link alight motion, am premium saurus, alight motion no watermark">
+  <meta name="author" content="Saurus - AM Prem">
+  <meta name="robots" content="index, follow, max-image-preview:large">
+  <meta name="format-detection" content="telephone=no">
+  <link rel="canonical" href="https://am.saurusgege.my.id/">
+
+  <!-- Open Graph / WhatsApp / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://am.saurusgege.my.id/">
+  <meta property="og:title" content="Aktivasi Alight Motion Premium 1 Tahun Gratis Instan">
+  <meta property="og:description" content="Aktivasi lisensi Alight Motion Premium resmi 1 tahun secara instan via magic link verifikasi. Gratis, cepat, dan aman.">
+  <meta property="og:image" content="https://am.saurusgege.my.id/assets/image/og-banner-wa.jpg">
+  <meta property="og:image:secure_url" content="https://am.saurusgege.my.id/assets/image/og-banner-wa.jpg">
+  <meta property="og:image:type" content="image/jpeg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="AM Premium by Saurus — Aktivasi Alight Motion Premium 1 Tahun">
+  <meta property="og:site_name" content="AM Prem by Saurus">
+  <meta property="og:locale" content="id_ID">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Aktivasi Alight Motion Premium 1 Tahun Gratis Instan">
+  <meta name="twitter:description" content="Aktivasi lisensi Alight Motion Premium resmi 1 tahun secara instan via magic link verifikasi.">
+  <meta name="twitter:image" content="https://am.saurusgege.my.id/assets/image/og-banner-wa.jpg">
+
+  <!-- Favicon & Theme -->
+  <link rel="icon" type="image/png" href="/assets/image/logo.png">
+  <link rel="apple-touch-icon" href="/assets/image/logo.png">
+  <meta name="theme-color" content="#0a0f0d">
+  <meta name="msapplication-TileColor" content="#050806">
+
+  <!-- Schema.org Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "AM Prem by Saurus",
+    "description": "Aktivasi lisensi Alight Motion Premium resmi 1 Tahun secara instan via magic link verifikasi.",
+    "url": "https://am.saurusgege.my.id/",
+    "applicationCategory": "UtilitiesApplication",
+    "operatingSystem": "Android, iOS",
+    "offers": { "@type": "Offer", "price": "0", "priceCurrency": "IDR" },
+    "author": { "@type": "Person", "name": "Saurus" }
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Beranda", "item": "https://am.saurusgege.my.id/" },
+      { "@type": "ListItem", "position": 2, "name": "VIP Access", "item": "https://am.saurusgege.my.id/vip" }
+    ]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Apakah aktivasi Alight Motion Premium ini gratis?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Ya, aktivasi lisensi 1 tahun melalui portal ini gratis dan resmi menggunakan sistem magic link verifikasi." }
+      },
+      {
+        "@type": "Question",
+        "name": "Apakah perlu root atau aplikasi mod?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Tidak. Proses aktivasi sepenuhnya resmi tanpa root perangkat dan tanpa aplikasi modifikasi apapun." }
+      },
+      {
+        "@type": "Question",
+        "name": "Berapa lama masa berlaku magic link?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Magic link verifikasi berlaku selama 5 menit sejak dikirim ke email Anda." }
+      }
+    ]
+  }
+  </script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;500;600;700;800&family=Manrope:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #05100c;
+      --bg2: #081713;
+      --card: #0a1a15;
+      --border: rgba(45,212,148,0.16);
+      --border-h: rgba(45,212,148,0.38);
+      --teal: #2dd494;
+      --coral: #ff6b57;
+      --gold: #f5b942;
+      --violet: #9b8cff;
+      --green: #2dd494;
+      --red: #ff5470;
+      --amber: #f5b942;
+      --ink: #eef7f3;
+      --muted: #7c9089;
+      --muted-2: #4a5c55;
+
+      --font-display: 'Sora', 'Manrope', sans-serif;
+      --font-body: 'Manrope', 'Sora', sans-serif;
+      --font-mono: 'JetBrains Mono', ui-monospace, monospace;
+    }
+
+    html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
+
+    body {
+      font-family: var(--font-body);
+      background-color: var(--bg);
+      color: var(--ink);
+      min-height: 100vh;
+      overflow-x: hidden;
+      line-height: 1.5;
+    }
+
+    h1, h2, h3, .site-title, .card-title, .logs-title { font-family: var(--font-display); }
+
+    a { color: inherit; }
+    button { font-family: inherit; }
+
+    /* Background decorations */
+    .bg-blobs {
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      z-index: 0;
+      overflow: hidden;
+    }
+    .blob {
+      position: absolute;
+      border-radius: 50%;
+      filter: blur(70px);
+      opacity: 0.16;
+    }
+    .blob-1 { width: 420px; height: 420px; top: -110px; left: -110px; background: var(--teal); }
+    .blob-2 { width: 360px; height: 360px; top: 42%; right: -90px; background: var(--coral); }
+    @media (max-width: 600px) {
+      .blob { opacity: 0.10; filter: blur(44px); }
+      .blob-1 { width: 260px; height: 260px; }
+      .blob-2 { width: 210px; height: 210px; }
+    }
+
+    .grid-bg {
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      z-index: 0;
+      background-image:
+        linear-gradient(to right, rgba(45,212,148,0.035) 1px, transparent 1px),
+        linear-gradient(to bottom, rgba(45,212,148,0.035) 1px, transparent 1px);
+      background-size: 36px 36px;
+    }
+
+    /* Layout — fluid, works from small phones up to desktop */
+    .page-wrap {
+      position: relative;
+      z-index: 1;
+      width: 100%;
+      max-width: 480px;
+      margin: 0 auto;
+      padding: 20px 16px 60px;
+    }
+    @media (min-width: 860px) {
+      .page-wrap { max-width: 920px; padding: 32px 24px 72px; }
+      .layout-grid { display: grid; grid-template-columns: 1.1fr 0.9fr; gap: 24px; align-items: start; }
+    }
+    @media (min-width: 1180px) {
+      .page-wrap { max-width: 1080px; }
+    }
+
+    /* ── HEADER ── */
+    .site-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 20px;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+    .header-left {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      min-width: 0;
+    }
+    .logo-box {
+      width: 42px;
+      height: 42px;
+      border-radius: 12px;
+      overflow: hidden;
+      border: 1px solid rgba(45,212,148,0.32);
+      background: #0e2019;
+      flex-shrink: 0;
+    }
+    .logo-box img { width: 100%; height: 100%; object-fit: cover; }
+    .site-title { font-size: 15px; font-weight: 700; color: #fff; line-height: 1.2; white-space: nowrap; }
+    .site-sub { font-size: 10px; color: var(--muted); font-family: var(--font-mono); white-space: nowrap; }
+    .header-badges { display: flex; align-items: center; gap: 6px; flex-shrink: 0; }
+    .pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      padding: 4px 10px;
+      border-radius: 100px;
+      font-size: 10px;
+      font-weight: 700;
+      font-family: var(--font-mono);
+      border: 1px solid;
+      text-decoration: none;
+      transition: all 0.2s;
+      cursor: pointer;
+      white-space: nowrap;
+    }
+    .pill-online {
+      background: rgba(45,212,148,0.08);
+      border-color: rgba(45,212,148,0.28);
+      color: var(--teal);
+      cursor: pointer;
+      user-select: none;
+    }
+    .pill-online:hover {
+      background: rgba(45,212,148,0.16);
+      border-color: rgba(45,212,148,0.5);
+      box-shadow: 0 0 14px rgba(45,212,148,0.2);
+    }
+    .pill-online.warning {
+      background: rgba(245,185,66,0.08);
+      border-color: rgba(245,185,66,0.3);
+      color: var(--gold);
+    }
+    .pill-online.error {
+      background: rgba(255,84,112,0.08);
+      border-color: rgba(255,84,112,0.3);
+      color: var(--red);
+    }
+    .pill-vip {
+      background: rgba(255,121,198,0.12);
+      border-color: rgba(255,121,198,0.35);
+      color: #ff79c6;
+    }
+    .pill-vip:hover { background: rgba(255,121,198,0.22); border-color: rgba(255,121,198,0.6); }
+    .pill-ent {
+      background: rgba(239,68,68,0.12);
+      border-color: rgba(239,68,68,0.35);
+      color: #ef4444;
+    }
+    .pill-ent:hover { background: rgba(239,68,68,0.22); border-color: rgba(239,68,68,0.6); }
+    .pill-store {
+      background: rgba(45,212,148,0.08);
+      border-color: rgba(45,212,148,0.28);
+      color: var(--teal);
+    }
+    .pill-store:hover { background: rgba(45,212,148,0.18); }
+    .pill-session {
+      background: rgba(245,185,66,0.12);
+      border-color: rgba(245,185,66,0.4);
+      color: #f5b942;
+      font-weight: 800;
+    }
+    .live-dot {
+      width: 6px; height: 6px;
+      border-radius: 50%;
+      background: var(--green);
+      box-shadow: 0 0 6px currentColor;
+      animation: pulse-dot 2s infinite;
+      transition: background 0.3s;
+    }
+    .pill-online.warning .live-dot { background: var(--gold); }
+    .pill-online.error .live-dot { background: var(--red); }
+    @keyframes pulse-dot {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.4; transform: scale(0.8); }
+    }
+
+    /* Server Status Info Bar */
+    .server-status-bar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      padding: 7px 12px;
+      margin-bottom: 16px;
+      background: rgba(14,32,25,0.7);
+      backdrop-filter: blur(10px);
+      border: 1px solid rgba(45,212,148,0.14);
+      border-radius: 12px;
+      font-size: 11px;
+      color: var(--muted);
+      cursor: pointer;
+      transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+      flex-wrap: wrap;
+    }
+    .server-status-bar:hover {
+      border-color: rgba(45,212,148,0.32);
+      background: rgba(14,32,25,0.9);
+      box-shadow: 0 4px 18px rgba(45,212,148,0.07);
+    }
+    .status-badge-group { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+    .status-badge-dot {
+      width: 7px; height: 7px; border-radius: 50%;
+      background: var(--green); box-shadow: 0 0 8px var(--green);
+      flex-shrink: 0; transition: all 0.3s;
+    }
+    .status-badge-dot.slow { background: var(--gold); box-shadow: 0 0 8px var(--gold); }
+    .status-badge-dot.offline { background: var(--red); box-shadow: 0 0 8px var(--red); }
+    .status-text-core { font-weight: 600; color: #f1f5ee; display: flex; align-items: center; gap: 4px; flex-wrap: wrap; }
+    .status-ping-ms {
+      font-family: var(--font-mono); font-weight: 600; color: var(--teal);
+      background: rgba(45,212,148,0.08); padding: 1px 6px; border-radius: 6px;
+      border: 1px solid rgba(45,212,148,0.15);
+    }
+    .status-proxy-badge { font-size: 10px; color: var(--muted-2); display: flex; align-items: center; gap: 4px; white-space: nowrap; }
+    .status-proxy-badge span { color: #34d399; font-weight: 600; }
+
+    /* ── CARD ── */
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 20px;
+      margin-bottom: 16px;
+      transition: border-color 0.3s;
+    }
+    .card:hover { border-color: var(--border-h); }
+    .card-title {
+      display: flex; align-items: center; gap: 8px;
+      font-size: 13px; font-weight: 700; color: #fff; margin-bottom: 4px;
+    }
+    .card-title-icon {
+      width: 26px; height: 26px; border-radius: 8px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 11px; flex-shrink: 0;
+    }
+    .card-desc { font-size: 11px; color: var(--muted); margin-bottom: 16px; padding-left: 34px; line-height: 1.5; }
+
+    /* ── STEPS ── */
+    .steps-bar {
+      display: flex; align-items: center; gap: 0;
+      margin-bottom: 20px;
+      background: #071410; border: 1px solid #102822; border-radius: 14px; padding: 6px;
+    }
+    .step-btn {
+      flex: 1; display: flex; align-items: center; justify-content: center; gap: 5px;
+      padding: 8px 6px; border-radius: 10px; font-size: 11px; font-weight: 600;
+      color: var(--muted-2); cursor: pointer; border: none; background: transparent;
+      transition: all 0.2s; font-family: inherit;
+    }
+    .step-btn.active {
+      background: linear-gradient(135deg, rgba(45,212,148,0.2), rgba(255,107,87,0.18));
+      color: #fff; border: 1px solid rgba(45,212,148,0.4);
+    }
+    .step-btn.done { color: var(--green); }
+    .step-btn.locked { opacity: 0.4; cursor: not-allowed; }
+
+    /* ── FORM ELEMENTS ── */
+    .form-group { margin-bottom: 14px; }
+    .form-label {
+      display: block; font-size: 10px; font-weight: 700; color: #9db3ab;
+      text-transform: uppercase; letter-spacing: 0.06em; margin-bottom: 6px;
+    }
+    .form-input {
+      width: 100%;
+      background: rgba(6,20,15,0.9);
+      border: 1px solid rgba(255,255,255,0.08);
+      border-radius: 12px;
+      padding: 11px 14px;
+      font-size: 13px;
+      color: #fff;
+      font-family: inherit;
+      transition: border-color 0.2s, box-shadow 0.2s;
+      outline: none;
+    }
+    .form-input:focus { border-color: var(--teal); box-shadow: 0 0 0 3px rgba(45,212,148,0.12); }
+    .form-input::placeholder { color: #33473f; }
+    textarea.form-input { resize: none; font-family: var(--font-mono); font-size: 11px; line-height: 1.5; }
+    .form-hint { font-size: 10px; color: var(--muted-2); margin-top: 5px; display: flex; align-items: flex-start; gap: 4px; line-height: 1.4; }
+    .form-hint i { margin-top: 1px; color: var(--teal); flex-shrink: 0; }
+
+    /* ── BUTTONS ── */
+    .btn {
+      display: flex; align-items: center; justify-content: center; gap: 7px;
+      width: 100%; padding: 13px 16px; border-radius: 12px; font-size: 13px; font-weight: 700;
+      cursor: pointer; border: none; font-family: inherit; transition: all 0.2s; text-decoration: none;
+    }
+    .btn-primary {
+      background: linear-gradient(135deg, var(--teal) 0%, #1fb583 55%, var(--coral) 130%);
+      color: #04120c;
+      box-shadow: 0 4px 20px rgba(45,212,148,0.28);
+    }
+    .btn-primary:hover:not(:disabled) { box-shadow: 0 6px 28px rgba(45,212,148,0.4); transform: translateY(-1px); }
+    .btn-primary:active:not(:disabled) { transform: translateY(0); }
+    .btn-primary:disabled { opacity: 0.5; cursor: not-allowed; box-shadow: none; transform: none; }
+    .btn-secondary { background: rgba(255,255,255,0.04); color: #9db3ab; border: 1px solid rgba(255,255,255,0.08); }
+    .btn-secondary:hover { background: rgba(255,255,255,0.07); color: #cfe4dc; }
+    .btn-sm {
+      display: inline-flex; align-items: center; gap: 5px; padding: 5px 10px; border-radius: 8px;
+      font-size: 10px; font-weight: 600; cursor: pointer; border: none; font-family: inherit; transition: all 0.2s;
+    }
+
+    /* ── BANNER ── */
+    .success-banner {
+      display: none; padding: 14px; border-radius: 14px;
+      background: rgba(45,212,148,0.07); border: 1px solid rgba(45,212,148,0.25); margin-top: 14px;
+    }
+    .success-banner.show { display: block; }
+    .banner-row { display: flex; align-items: center; gap: 7px; font-size: 12px; font-weight: 700; color: #fff; margin-bottom: 6px; }
+    .banner-text { font-size: 11px; color: var(--muted); line-height: 1.5; margin-bottom: 10px; }
+    .banner-warn {
+      display: flex; align-items: center; gap: 6px; padding: 8px 10px; border-radius: 10px;
+      background: rgba(245,185,66,0.1); border: 1px solid rgba(245,185,66,0.25); font-size: 10px; color: #fcd889; margin-bottom: 10px;
+    }
+
+    /* ── PROOF CANVAS ── */
+    .canvas-wrap { border-radius: 14px; overflow: hidden; border: 1px solid #102822; background: #050d0a; margin-bottom: 12px; }
+    #proof-canvas { width: 100%; height: auto; display: block; border-radius: 14px; }
+    .proof-actions { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+
+    /* ── QUOTA BADGE ── */
+    .quota-badge {
+      padding: 3px 10px; border-radius: 100px; font-size: 10px; font-family: var(--font-mono);
+      background: rgba(155,140,255,0.12); border: 1px solid rgba(155,140,255,0.3); color: #c3b8ff;
+    }
+
+    /* ── DIVIDER ── */
+    .section-divider { display: flex; align-items: center; gap: 10px; margin: 24px 0 16px; }
+    .divider-line { flex: 1; height: 1px; background: rgba(255,255,255,0.06); }
+    .divider-label {
+      font-size: 10px; font-weight: 700; color: var(--muted-2); text-transform: uppercase;
+      letter-spacing: 0.08em; font-family: var(--font-mono); white-space: nowrap;
+    }
+
+    /* ── LOGS SECTION ── */
+    .logs-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 12px; gap: 8px; flex-wrap: wrap; }
+    .logs-title-group { display: flex; align-items: center; gap: 8px; }
+    .logs-title { font-size: 13px; font-weight: 700; color: #fff; }
+    .live-badge {
+      display: inline-flex; align-items: center; gap: 4px; padding: 2px 8px; border-radius: 100px;
+      font-size: 9px; font-weight: 700; font-family: var(--font-mono);
+      background: rgba(45,212,148,0.1); border: 1px solid rgba(45,212,148,0.25); color: var(--green);
+    }
+    .refresh-btn {
+      display: inline-flex; align-items: center; gap: 5px; padding: 6px 12px; border-radius: 10px;
+      background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.08); color: var(--muted-2);
+      font-size: 10px; font-weight: 600; cursor: pointer; font-family: inherit; transition: all 0.2s;
+    }
+    .refresh-btn:hover { background: rgba(45,212,148,0.08); border-color: rgba(45,212,148,0.25); color: var(--teal); }
+    .refresh-btn:disabled { opacity: 0.4; cursor: not-allowed; }
+
+    .stats-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; margin-bottom: 14px; }
+    .stat-card { background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.06); border-radius: 12px; padding: 10px 6px; text-align: center; }
+    .stat-label { font-size: 9px; color: var(--muted-2); text-transform: uppercase; font-family: var(--font-mono); display: block; margin-bottom: 3px; }
+    .stat-value { font-size: 18px; font-weight: 800; font-family: var(--font-mono); display: block; line-height: 1; }
+    .stat-card.s-total .stat-value { color: #fff; }
+    .stat-card.s-success .stat-value { color: var(--green); }
+    .stat-card.s-send .stat-value { color: var(--teal); }
+    .stat-card.s-verify .stat-value { color: var(--violet); }
+
+    .logs-meta { display: flex; align-items: center; justify-content: space-between; margin-bottom: 10px; font-size: 10px; gap: 8px; flex-wrap: wrap; }
+    .logs-meta-left { display: flex; align-items: center; gap: 6px; color: var(--muted-2); }
+    .logs-meta-right { color: var(--muted-2); font-family: var(--font-mono); }
+
+    .log-item {
+      background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.06);
+      border-radius: 14px; padding: 12px; margin-bottom: 8px; transition: all 0.15s;
+    }
+    .log-item:hover { border-color: rgba(45,212,148,0.2); background: rgba(45,212,148,0.03); }
+    .log-item:last-child { margin-bottom: 0; }
+    .log-row1 { display: flex; align-items: center; justify-content: space-between; margin-bottom: 8px; gap: 8px; flex-wrap: wrap; }
+    .log-badges { display: flex; align-items: center; gap: 5px; flex-wrap: wrap; }
+    .log-time { font-size: 10px; color: var(--muted-2); font-family: var(--font-mono); }
+    .log-email-row { display: flex; align-items: center; justify-content: space-between; gap: 8px; flex-wrap: wrap; }
+    .log-email { font-size: 12px; font-family: var(--font-mono); color: #cfe4dc; display: flex; align-items: center; gap: 5px; min-width: 0; word-break: break-word; }
+    .log-email i { color: var(--muted-2); font-size: 10px; }
+    .log-meta-row {
+      margin-top: 8px; padding-top: 8px; border-top: 1px solid rgba(255,255,255,0.05);
+      display: grid; grid-template-columns: 1fr 1fr; gap: 6px; font-size: 10px; font-family: var(--font-mono);
+    }
+    .log-meta-item { color: var(--muted-2); word-break: break-all; }
+    .log-meta-item span { color: #9db3ab; }
+
+    .badge {
+      display: inline-flex; align-items: center; gap: 3px; padding: 2px 7px; border-radius: 100px;
+      font-size: 9px; font-weight: 700; font-family: var(--font-mono); border: 1px solid;
+    }
+    .badge-send { background: rgba(45,212,148,0.1); border-color: rgba(45,212,148,0.25); color: var(--teal); }
+    .badge-verify { background: rgba(155,140,255,0.1); border-color: rgba(155,140,255,0.25); color: #c3b8ff; }
+    .badge-success { color: var(--green); border-color: transparent; }
+    .badge-fail { color: var(--red); border-color: transparent; }
+    .badge-new { background: rgba(45,212,148,0.08); border-color: rgba(45,212,148,0.2); color: var(--green); font-size: 8px; }
+
+    .skeleton {
+      background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.05);
+      border-radius: 14px; padding: 12px; margin-bottom: 8px; animation: shimmer 1.5s ease-in-out infinite alternate;
+    }
+    @keyframes shimmer { from { opacity: 0.6; } to { opacity: 1; } }
+    .skeleton-line { height: 10px; border-radius: 6px; background: rgba(255,255,255,0.06); margin-bottom: 8px; }
+    .skeleton-line:last-child { margin-bottom: 0; }
+
+    .logs-footer {
+      display: flex; align-items: center; justify-content: space-between; padding: 10px 12px; border-radius: 10px;
+      background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.05); font-size: 10px;
+      color: var(--muted-2); margin-top: 12px; gap: 8px; flex-wrap: wrap;
+    }
+    .logs-footer i { color: var(--teal); margin-right: 4px; }
+
+    /* Toast */
+    #toast-container {
+      position: fixed; top: 16px; right: 16px; left: 16px; z-index: 9999;
+      display: flex; flex-direction: column; align-items: flex-end; gap: 8px;
+      pointer-events: none;
+    }
+    .toast {
+      display: flex; align-items: center; gap: 8px; padding: 10px 14px; border-radius: 12px;
+      border: 1px solid; font-size: 12px; color: #fff; background: #0e2019;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.5); animation: slideIn 0.2s ease;
+      max-width: 320px; width: 100%;
+    }
+    .toast.success { border-color: rgba(45,212,148,0.3); }
+    .toast.success i { color: var(--green); }
+    .toast.error { border-color: rgba(255,84,112,0.3); }
+    .toast.error i { color: var(--red); }
+    @keyframes slideIn { from { opacity: 0; transform: translateX(20px); } to { opacity: 1; transform: translateX(0); } }
+
+    /* WA Modal */
+    .modal-overlay {
+      position: fixed; inset: 0; z-index: 200; background: rgba(0,0,0,0.75); backdrop-filter: blur(4px);
+      display: flex; align-items: center; justify-content: center; padding: 16px;
+      opacity: 0; pointer-events: none; transition: opacity 0.2s;
+    }
+    .modal-overlay.open { opacity: 1; pointer-events: all; }
+    .modal-card {
+      width: 100%; max-width: 380px; max-height: 90vh; overflow-y: auto;
+      background: #0a1a15; border: 1px solid rgba(52,211,153,0.3); border-radius: 24px; padding: 24px;
+      transform: scale(0.95); transition: transform 0.2s; position: relative;
+    }
+    .modal-overlay.open .modal-card { transform: scale(1); }
+
+    /* Scroll-to-logs button */
+    .scroll-hint {
+      display: flex; align-items: center; justify-content: center; gap: 6px; margin-top: 10px;
+      font-size: 10px; color: var(--muted-2); cursor: pointer; transition: color 0.2s; text-align: center;
+    }
+    .scroll-hint:hover { color: var(--teal); }
+    .scroll-hint i { animation: bounce-down 1.5s ease infinite; }
+    @keyframes bounce-down { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(3px); } }
+
+    /* WA FAB */
+    .fab-wa {
+      position: fixed; bottom: 80px; right: 16px; z-index: 50;
+      display: flex; align-items: center; gap: 6px; padding: 10px 14px; border-radius: 100px;
+      background: #16a34a; color: #fff; font-size: 12px; font-weight: 700; border: none; cursor: pointer;
+      box-shadow: 0 4px 20px rgba(22,163,74,0.4); transition: all 0.2s; font-family: inherit;
+    }
+    .fab-wa:hover { background: #15803d; box-shadow: 0 6px 28px rgba(22,163,74,0.5); transform: translateY(-2px); }
+    .fab-wa:active { transform: translateY(0); }
+    @media (max-width: 380px) {
+      .fab-wa span { display: none !important; }
+      .fab-wa { padding: 12px; }
+    }
+
+    /* Footer */
+    .site-footer {
+      text-align: center; margin-top: 32px; padding-top: 20px; border-top: 1px solid rgba(255,255,255,0.04);
+      font-size: 11px; color: var(--muted-2); line-height: 1.8;
+    }
+    .site-footer a { color: var(--gold); text-decoration: none; }
+    .site-footer a:hover { color: #fcd889; }
+
+    .seo-copy {
+      margin-top: 28px;
+      padding: 18px 20px;
+      border-radius: 18px;
+      border: 1px solid rgba(255,255,255,0.05);
+      background: rgba(255,255,255,0.015);
+    }
+    .seo-copy h2 { font-size: 13px; color: #fff; margin-bottom: 8px; }
+    .seo-copy h3 { font-size: 12px; color: #cfe4dc; margin: 14px 0 6px; }
+    .seo-copy p { font-size: 11.5px; color: var(--muted); line-height: 1.7; margin-bottom: 8px; }
+    .seo-copy ul { padding-left: 18px; margin-bottom: 8px; }
+    .seo-copy li { font-size: 11.5px; color: var(--muted); line-height: 1.7; }
+
+    /* Honeypot */
+    .hp-field { position: absolute; left: -9999px; top: -9999px; opacity: 0; }
+
+    /* Reduced motion */
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after { animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; transition-duration: 0.01ms !important; }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="bg-blobs" aria-hidden="true">
+    <div class="blob blob-1"></div>
+    <div class="blob blob-2"></div>
+  </div>
+  <div class="grid-bg" aria-hidden="true"></div>
+  <div id="toast-container" role="status" aria-live="polite"></div>
+
+  <div class="page-wrap">
+    <div class="layout-grid">
+    <div class="layout-main">
+
+    <!-- ── HEADER ── -->
+    <header class="site-header">
+      <div class="header-left">
+        <div class="logo-box">
+          <img src="/assets/image/logo.png" alt="Logo AM Prem by Saurus"
+            onerror="this.src='https://cdn.synoxcloud.xyz/storage/j24xf6ghnw1d.png'">
+        </div>
+        <div>
+          <div class="site-title">AM Premium</div>
+          <div class="site-sub">by Saurus &middot; 1 Year</div>
+        </div>
+      </div>
+      <div class="header-badges">
+        <span class="pill pill-online" id="header-status-pill" onclick="checkServerHealth(true)" role="button" tabindex="0" title="Klik untuk refresh status server">
+          <span class="live-dot" id="header-status-dot"></span>
+          <span id="header-status-text">Online</span>
+        </span>
+        <a href="/store" id="header-session-badge" class="pill pill-session" style="display:none;" title="Buka Portal VIP/Enterprise V2">
+          <span id="header-session-text">VIP</span>
+        </a>
+        <a href="/vip" class="pill pill-vip" title="VIP Portal & Aktivasi">
+          <i class="fa-solid fa-crown" style="font-size:9px" aria-hidden="true"></i>
+          <span>VIP</span>
+        </a>
+        <a href="/enterprise" class="pill pill-ent" title="Enterprise Portal & Aktivasi">
+          <i class="fa-solid fa-rocket" style="font-size:9px" aria-hidden="true"></i>
+          <span>ENT</span>
+        </a>
+      </div>
+    </header>
+
+    <!-- ── SERVER STATUS & LATENCY BAR ── -->
+    <div class="server-status-bar" id="server-status-bar" onclick="checkServerHealth(true)" role="button" tabindex="0" title="Klik untuk cek ulang latensi server">
+      <div class="status-badge-group">
+        <div class="status-badge-dot" id="ping-badge-dot"></div>
+        <div class="status-text-core">
+          <span>Server AM Core:</span>
+          <span id="ping-core-status" style="color:#2dd494">Online</span>
+          <span class="status-ping-ms" id="ping-latency-text">-- ms</span>
+        </div>
+      </div>
+      <div class="status-proxy-badge">
+        <i class="fa-solid fa-bolt" style="color:var(--teal);font-size:9px" aria-hidden="true"></i>
+        Proxy: <span id="proxy-status-text">Normal</span>
+      </div>
+    </div>
+
+    <!-- ── ACTIVATION CARD ── -->
+    <div class="card">
+
+      <!-- Steps Bar -->
+      <div class="steps-bar" role="tablist" aria-label="Langkah aktivasi">
+        <button type="button" id="step-btn-send" class="step-btn active" onclick="switchStep('send')" role="tab" aria-selected="true">
+          <i class="fa-solid fa-paper-plane" style="font-size:10px" aria-hidden="true"></i>
+          1. Kirim
+        </button>
+        <button type="button" id="step-btn-verify" class="step-btn locked" onclick="switchStep('verify')" role="tab" aria-selected="false">
+          <i id="step-icon-verify" class="fa-solid fa-lock" style="font-size:10px" aria-hidden="true"></i>
+          2. Aktivasi
+        </button>
+        <button type="button" id="step-btn-proof" class="step-btn locked" onclick="switchStep('proof')" role="tab" aria-selected="false">
+          <i id="step-icon-proof" class="fa-solid fa-lock" style="font-size:10px" aria-hidden="true"></i>
+          3. Bukti
+        </button>
+      </div>
+
+      <!-- STEP 1: KIRIM -->
+      <div id="panel-send" role="tabpanel">
+        <div class="card-title">
+          <div class="card-title-icon" style="background:rgba(45,212,148,0.12);color:var(--teal)">
+            <i class="fa-solid fa-envelope-open-text" aria-hidden="true"></i>
+          </div>
+          Kirim Magic Link
+        </div>
+        <p class="card-desc">Masukkan email akun Alight Motion Anda untuk menerima tautan verifikasi masuk.</p>
+
+        <form id="form-send" onsubmit="handleSend(event)">
+          <input type="text" class="hp-field" id="hp-send" name="hp_field" tabindex="-1" autocomplete="off">
+          <div class="form-group">
+            <label class="form-label" for="send-email">Alamat Email Akun</label>
+            <input type="email" id="send-email" class="form-input" placeholder="nama@gmail.com" required autocomplete="email">
+            <p class="form-hint"><i class="fa-solid fa-circle-info" aria-hidden="true"></i> Gunakan email aktif yang bisa kamu buka sekarang.</p>
+          </div>
+          <button type="submit" id="btn-send" class="btn btn-primary">
+            <span id="btn-send-text">Kirim Magic Link Verifikasi</span>
+            <i id="btn-send-icon" class="fa-solid fa-arrow-right" aria-hidden="true"></i>
+            <i id="btn-send-spin" class="fa-solid fa-circle-notch fa-spin" style="display:none" aria-hidden="true"></i>
+          </button>
+        </form>
+
+        <div id="post-send-banner" class="success-banner">
+          <div class="banner-row">
+            <i class="fa-solid fa-circle-check" style="color:var(--green)" aria-hidden="true"></i>
+            Magic link berhasil dikirim!
+          </div>
+          <p class="banner-text">Buka email kamu di Inbox atau folder Spam, lalu <strong>salin seluruh tautan verifikasi</strong>.</p>
+
+          <!-- MAGIC LINK COUNTDOWN TIMER -->
+          <div id="magic-timer-wrap" style="display:flex;align-items:center;gap:12px;margin:10px 0 4px;padding:10px 14px;border-radius:14px;background:rgba(245,185,66,0.07);border:1px solid rgba(245,185,66,0.2)">
+            <!-- SVG ring countdown -->
+            <div style="position:relative;width:44px;height:44px;flex-shrink:0">
+              <svg width="44" height="44" style="transform:rotate(-90deg)">
+                <circle cx="22" cy="22" r="19" fill="none" stroke="rgba(245,185,66,0.15)" stroke-width="3"/>
+                <circle id="timer-ring" cx="22" cy="22" r="19" fill="none" stroke="#f5b942" stroke-width="3"
+                  stroke-dasharray="119.4" stroke-dashoffset="0"
+                  style="transition:stroke-dashoffset 1s linear,stroke 0.4s"
+                  stroke-linecap="round"/>
+              </svg>
+              <div style="position:absolute;inset:0;display:flex;align-items:center;justify-content:center">
+                <i id="timer-icon" class="fa-solid fa-hourglass-half" style="font-size:14px;color:#f5b942"></i>
+              </div>
+            </div>
+            <div style="flex:1;min-width:0">
+              <div style="font-size:11px;font-weight:700;color:#fcd889;margin-bottom:2px">Masa Berlaku Link</div>
+              <div style="display:flex;align-items:baseline;gap:4px">
+                <span id="timer-display" style="font-size:22px;font-weight:800;color:#f5b942;font-family:'JetBrains Mono',monospace;line-height:1">05:00</span>
+                <span style="font-size:10px;color:var(--muted);font-family:'JetBrains Mono',monospace">menit tersisa</span>
+              </div>
+            </div>
+          </div>
+
+          <button type="button" class="btn btn-primary" onclick="goToVerify()" style="margin-top:8px">
+            Lanjut ke Step 2 (Aktivasi)
+            <i class="fa-solid fa-arrow-right" aria-hidden="true"></i>
+          </button>
+        </div>
+
+        <!-- MAGIC LINK EXPIRED MODAL -->
+        <div id="magic-expired-modal" class="modal-overlay" onclick="if(event.target===this)closeMagicExpired()" role="dialog" aria-modal="true" aria-label="Magic link kadaluarsa">
+          <div class="modal-card" style="text-align:center">
+            <div style="width:58px;height:58px;border-radius:16px;background:rgba(255,107,87,0.12);border:1px solid rgba(255,107,87,0.35);display:flex;align-items:center;justify-content:center;margin:0 auto 14px;font-size:24px;color:#ff6b57">
+              <i class="fa-solid fa-hourglass-end" aria-hidden="true"></i>
+            </div>
+            <span style="font-size:9px;font-weight:800;padding:2px 10px;border-radius:100px;background:rgba(255,107,87,0.12);border:1px solid rgba(255,107,87,0.3);color:#ff6b57;font-family:'JetBrains Mono',monospace;text-transform:uppercase;letter-spacing:.06em">LINK KEDALUWARSA</span>
+            <h3 style="font-size:17px;font-weight:800;color:#fff;margin-top:12px;line-height:1.3">Magic Link Sudah Tidak Berlaku</h3>
+            <p style="font-size:12px;color:var(--muted-2);margin-top:8px;line-height:1.6">Link verifikasi hanya berlaku <strong style="color:#fcd889">5 menit</strong>. Kamu perlu mengirim ulang link baru ke email yang sama.</p>
+            <div style="display:flex;flex-direction:column;gap:8px;margin-top:16px">
+              <button type="button" onclick="closeMagicExpired();switchStep('send');setTimeout(()=>document.getElementById('send-email').focus(),100)" class="btn btn-primary" style="font-size:13px">
+                <i class="fa-solid fa-paper-plane" aria-hidden="true"></i> Kirim Ulang Magic Link
+              </button>
+              <button type="button" onclick="closeMagicExpired()" class="btn btn-secondary" style="font-size:12px">Tutup</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- STEP 2: AKTIVASI -->
+      <div id="panel-verify" style="display:none" role="tabpanel">
+        <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:4px;gap:8px;flex-wrap:wrap">
+          <div class="card-title">
+            <div class="card-title-icon" style="background:rgba(155,140,255,0.12);color:var(--violet)">
+              <i class="fa-solid fa-bolt" aria-hidden="true"></i>
+            </div>
+            Aktivasi Premium
+          </div>
+          <span class="quota-badge" id="quota-badge">2x / Hari</span>
+        </div>
+        <p class="card-desc">Tempelkan link verifikasi dari email Anda untuk mengaktifkan lisensi 1 tahun.</p>
+
+        <form id="form-verify" onsubmit="handleVerify(event)">
+          <input type="text" class="hp-field" id="hp-verify" name="hp_field" tabindex="-1" autocomplete="off">
+          <div class="form-group">
+            <label class="form-label" for="verify-email">Email Akun</label>
+            <input type="email" id="verify-email" class="form-input" placeholder="nama@gmail.com" required>
+          </div>
+          <div class="form-group">
+            <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:6px;gap:8px;flex-wrap:wrap">
+              <label class="form-label" for="verify-link" style="margin-bottom:0">Magic Link Verifikasi</label>
+              <button type="button" class="btn-sm" style="background:rgba(45,212,148,0.08);border:1px solid rgba(45,212,148,0.2);color:var(--teal)" onclick="pasteLink()">
+                <i class="fa-regular fa-paste" aria-hidden="true"></i> Tempel Otomatis
+              </button>
+            </div>
+            <textarea id="verify-link" class="form-input" rows="3" placeholder="https://alightcreative.com/... tempel seluruh link dari email" required></textarea>
+            <p class="form-hint"><i class="fa-solid fa-circle-info" aria-hidden="true"></i> Tahan link di email &rarr; Salin &rarr; Tempel di sini.</p>
+          </div>
+          <button type="submit" id="btn-verify" class="btn btn-primary">
+            <span id="btn-verify-text">Aktifkan Lisensi Premium Sekarang</span>
+            <i id="btn-verify-icon" class="fa-solid fa-crown" style="color:#f5b942" aria-hidden="true"></i>
+            <i id="btn-verify-spin" class="fa-solid fa-circle-notch fa-spin" style="display:none" aria-hidden="true"></i>
+          </button>
+        </form>
+      </div>
+
+      <!-- STEP 3: BUKTI -->
+      <div id="panel-proof" style="display:none" role="tabpanel">
+        <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:4px;gap:8px;flex-wrap:wrap">
+          <div class="card-title">
+            <div class="card-title-icon" style="background:rgba(45,212,148,0.12);color:var(--green)">
+              <i class="fa-solid fa-shield-check" aria-hidden="true"></i>
+            </div>
+            Sertifikat Lisensi
+          </div>
+          <span style="font-size:9px;font-weight:700;padding:3px 8px;border-radius:100px;background:rgba(45,212,148,0.1);border:1px solid rgba(45,212,148,0.25);color:var(--green);font-family:'JetBrains Mono',monospace">PRO ACTIVE</span>
+        </div>
+        <p class="card-desc">Bukti langganan premium aktif resmi 1 tahun.</p>
+        <div class="canvas-wrap">
+          <canvas id="proof-canvas" width="960" height="620" role="img" aria-label="Sertifikat aktivasi Alight Motion Premium"></canvas>
+        </div>
+        <div class="proof-actions">
+          <button type="button" class="btn" style="background:linear-gradient(135deg,#2dd494,#1fb583);color:#04120c;font-size:12px" onclick="downloadProof()">
+            <i class="fa-solid fa-download" aria-hidden="true"></i> Simpan HD PNG
+          </button>
+          <button type="button" class="btn btn-secondary" style="font-size:12px" onclick="copyProof()">
+            <i class="fa-regular fa-copy" aria-hidden="true"></i> Salin Rincian
+          </button>
+        </div>
+      </div>
+
+      <!-- Scroll hint -->
+      <div class="scroll-hint" onclick="document.getElementById('logs-section').scrollIntoView({behavior:'smooth'})">
+        <i class="fa-solid fa-chevron-down" aria-hidden="true"></i>
+        <span>Lihat Live Logs Aktivasi</span>
+        <i class="fa-solid fa-chevron-down" aria-hidden="true"></i>
+      </div>
+    </div>
+
+    </div><!-- /layout-main -->
+
+    <div class="layout-side">
+    <!-- ── LOGS SECTION ── -->
+    <div id="logs-section">
+      <div class="section-divider">
+        <div class="divider-line"></div>
+        <span class="divider-label">
+          <i class="fa-solid fa-clock-rotate-left" style="margin-right:4px;color:var(--muted-2)" aria-hidden="true"></i>
+          Live Logs Aktivasi
+        </span>
+        <div class="divider-line"></div>
+      </div>
+
+      <div class="logs-header">
+        <div class="logs-title-group">
+          <span class="logs-title">Aktivitas Sistem</span>
+          <span class="live-badge">
+            <span class="live-dot" style="width:5px;height:5px"></span>
+            LIVE
+          </span>
+        </div>
+        <button type="button" class="refresh-btn" id="btn-refresh" onclick="fetchLogs(true)">
+          <i id="icon-refresh" class="fa-solid fa-rotate-right" aria-hidden="true"></i>
+          Refresh
+        </button>
+      </div>
+
+      <!-- Stats -->
+      <div class="stats-grid">
+        <div class="stat-card s-total">
+          <span class="stat-label">Total</span>
+          <span class="stat-value" id="stat-total">&mdash;</span>
+        </div>
+        <div class="stat-card s-success">
+          <span class="stat-label">Sukses</span>
+          <span class="stat-value" id="stat-success">&mdash;</span>
+        </div>
+        <div class="stat-card s-send">
+          <span class="stat-label">Kirim</span>
+          <span class="stat-value" id="stat-send">&mdash;</span>
+        </div>
+        <div class="stat-card s-verify">
+          <span class="stat-label">Aktivasi</span>
+          <span class="stat-value" id="stat-verify">&mdash;</span>
+        </div>
+      </div>
+
+      <!-- Meta row -->
+      <div class="logs-meta">
+        <div class="logs-meta-left">
+          <span class="live-dot" style="width:6px;height:6px"></span>
+          <span style="color:#7c9089">Aktivitas terkini</span>
+          <span id="logs-count" style="color:var(--muted-2)"></span>
+        </div>
+        <span id="logs-sync" class="logs-meta-right">Memuat...</span>
+      </div>
+
+      <!-- Log items -->
+      <div id="logs-container">
+        <div class="skeleton">
+          <div class="skeleton-line" style="width:40%;margin-bottom:10px"></div>
+          <div class="skeleton-line" style="width:70%"></div>
+        </div>
+        <div class="skeleton">
+          <div class="skeleton-line" style="width:35%;margin-bottom:10px"></div>
+          <div class="skeleton-line" style="width:60%"></div>
+        </div>
+        <div class="skeleton">
+          <div class="skeleton-line" style="width:45%;margin-bottom:10px"></div>
+          <div class="skeleton-line" style="width:55%"></div>
+        </div>
+      </div>
+
+      <div class="logs-footer">
+        <span><i class="fa-solid fa-user-shield" aria-hidden="true"></i>Privasi terjaga &mdash; IP &amp; data sensitif disembunyikan</span>
+        <span>Auto-sync 30s</span>
+      </div>
+    </div>
+    </div><!-- /layout-side -->
+
+    </div><!-- /layout-grid -->
+
+    <!-- ── SEO CONTENT ── -->
+    <section class="seo-copy">
+      <h2>Tentang Aktivasi Alight Motion Premium di AM Prem by Saurus</h2>
+      <p>AM Prem adalah portal aktivasi Alight Motion Premium resmi selama 1 tahun penuh, tanpa biaya, tanpa root perangkat, dan tanpa aplikasi mod apapun. Proses aktivasi memakai sistem magic link verifikasi langsung dari email akun Alight Motion Anda, sehingga lisensi yang aktif tetap sah dan aman digunakan.</p>
+      <h3>Cara Aktivasi Alight Motion Pro Gratis</h3>
+      <ul>
+        <li>Kirim email akun Alight Motion Anda melalui form Step 1.</li>
+        <li>Buka email masuk, salin tautan magic link yang diterima dalam 5 menit.</li>
+        <li>Tempelkan link tersebut di Step 2 untuk mengaktifkan lisensi premium.</li>
+        <li>Unduh sertifikat digital sebagai bukti aktivasi di Step 3.</li>
+      </ul>
+      <h3>Fitur yang Didapat Setelah Aktivasi</h3>
+      <p>Setelah lisensi aktif, akun Alight Motion Anda akan bebas watermark, mendukung ekspor video hingga 4K 60FPS, membuka seluruh efek dan preset VIP, penyimpanan cloud 100GB, serta fitur kamera 3D dan layer parenting untuk kebutuhan editing yang lebih kompleks.</p>
+    </section>
+
+    <!-- ── FOOTER ── -->
+    <footer class="site-footer">
+      <div>&copy; 2026 <strong style="color:#9db3ab">AM Prem</strong> by <strong style="color:var(--teal)">Saurus</strong></div>
+      <div>
+        <i class="fa-solid fa-shield-halved" style="color:var(--teal);font-size:9px" aria-hidden="true"></i>
+        Aman &amp; Terenkripsi &middot; Cloud Proxy Terproteksi &middot;
+        <a href="/vip"><i class="fa-solid fa-crown" style="font-size:9px" aria-hidden="true"></i> VIP Access</a>
+      </div>
+    </footer>
+
+  </div><!-- end page-wrap -->
+
+  <!-- WA FAB -->
+  <button type="button" class="fab-wa" onclick="openWaModal()" title="Gabung Saluran WhatsApp">
+    <i class="fa-brands fa-whatsapp" style="font-size:16px" aria-hidden="true"></i>
+    <span id="fab-label">Saluran</span>
+  </button>
+
+  <!-- WA Modal -->
+  <div id="wa-modal" class="modal-overlay" onclick="if(event.target===this)closeWaModal()" role="dialog" aria-modal="true" aria-label="Gabung saluran WhatsApp">
+    <div class="modal-card">
+      <button type="button" onclick="closeWaModal()" aria-label="Tutup" style="position:absolute;top:16px;right:16px;width:28px;height:28px;border-radius:50%;background:#0e2019;border:1px solid #1a382e;color:var(--muted-2);cursor:pointer;font-size:13px;display:flex;align-items:center;justify-content:center">
+        <i class="fa-solid fa-xmark" aria-hidden="true"></i>
+      </button>
+      <div style="text-align:center;margin-bottom:16px">
+        <div style="width:52px;height:52px;border-radius:14px;background:rgba(22,163,74,0.12);border:1px solid rgba(22,163,74,0.3);display:flex;align-items:center;justify-content:center;margin:0 auto 12px;font-size:22px;color:#4ade80">
+          <i class="fa-brands fa-whatsapp" aria-hidden="true"></i>
+        </div>
+        <span style="font-size:9px;font-weight:700;padding:2px 10px;border-radius:100px;background:rgba(22,163,74,0.1);border:1px solid rgba(22,163,74,0.25);color:#4ade80;font-family:'JetBrains Mono',monospace">SALURAN RESMI SAURUS</span>
+        <h3 style="font-size:16px;font-weight:800;color:#fff;margin-top:10px">Gabung Saluran Info Web</h3>
+        <p style="font-size:11px;color:var(--muted-2);margin-top:4px;line-height:1.5">Dapatkan pembaruan info server dan panduan aktivasi secara langsung.</p>
+      </div>
+      <div style="background:rgba(255,255,255,0.03);border:1px solid rgba(255,255,255,0.06);border-radius:12px;padding:12px;font-size:11px;color:#9db3ab;margin-bottom:16px;display:flex;flex-direction:column;gap:7px">
+        <div style="display:flex;align-items:center;gap:7px"><i class="fa-solid fa-circle-check" style="color:var(--green);font-size:11px" aria-hidden="true"></i> Pemberitahuan update versi Alight Motion</div>
+        <div style="display:flex;align-items:center;gap:7px"><i class="fa-solid fa-circle-check" style="color:var(--green);font-size:11px" aria-hidden="true"></i> Panduan aktivasi magic link anti-gagal</div>
+      </div>
+      <div style="display:flex;flex-direction:column;gap:8px">
+        <a href="https://whatsapp.com/channel/0029Vb8g2ZyH5JLykgHzVu2g" target="_blank" rel="noopener" class="btn" style="background:linear-gradient(135deg,#16a34a,#059669);color:#fff;font-size:13px">
+          <i class="fa-brands fa-whatsapp" style="font-size:15px" aria-hidden="true"></i> Gabung Saluran WhatsApp
+          <i class="fa-solid fa-arrow-up-right-from-square" style="font-size:10px" aria-hidden="true"></i>
+        </a>
+        <button type="button" onclick="closeWaModal()" class="btn btn-secondary" style="font-size:12px">Nanti Saja</button>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // ─── STATE ───────────────────────────────────────
+    let step1Done = false;
+    let step2Done = false;
+    let activeLicense = { email:'', order_id:'', uid:'', validUntil:'', dateStr:'' };
+    const SALT = 'saurus_sec_salt_2026_am_prem';
+    let cachedFP = null;
+    let isFetchingLogs = false;
+    let logsTimer = null;
+
+    // ─── FINGERPRINT & CRYPTO ─────────────────────────
+    async function sha256(str) {
+      const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(str));
+      return Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2,'0')).join('');
+    }
+    async function getFingerprint() {
+      if (cachedFP) return cachedFP;
+      try {
+        cachedFP = await sha256([
+          navigator.userAgent, screen.width+'x'+screen.height,
+          Intl.DateTimeFormat().resolvedOptions().timeZone,
+          new Date().getTimezoneOffset(), navigator.hardwareConcurrency
+        ].join('###'));
+      } catch { cachedFP = await sha256(navigator.userAgent + Math.random()); }
+      return cachedFP;
+    }
+
+    // ─── STEP NAVIGATION ─────────────────────────────
+    function switchStep(step) {
+      if (step === 'verify' && !step1Done) { showToast('Selesaikan Step 1 dulu!', 'error'); return; }
+      if (step === 'proof' && !step2Done) { showToast('Selesaikan Step 2 dulu!', 'error'); return; }
+
+      ['send','verify','proof'].forEach(s => {
+        document.getElementById('panel-'+s).style.display = s === step ? '' : 'none';
+        const btn = document.getElementById('step-btn-'+s);
+        btn.classList.toggle('active', s === step);
+        btn.setAttribute('aria-selected', s === step ? 'true' : 'false');
+      });
+
+      if (step === 'proof') renderProofCanvas();
+    }
+
+    function goToVerify() {
+      const email = document.getElementById('send-email').value.trim();
+      if (email) document.getElementById('verify-email').value = email;
+      switchStep('verify');
+      document.getElementById('verify-link').focus();
+    }
+
+    function unlockStep2() {
+      step1Done = true;
+      const btn = document.getElementById('step-btn-verify');
+      btn.classList.remove('locked');
+      document.getElementById('step-icon-verify').className = 'fa-solid fa-bolt';
+      document.getElementById('step-icon-verify').style.color = 'var(--violet)';
+    }
+    function unlockStep3() {
+      step2Done = true;
+      const btn = document.getElementById('step-btn-proof');
+      btn.classList.remove('locked');
+      document.getElementById('step-icon-proof').className = 'fa-solid fa-shield-check';
+      document.getElementById('step-icon-proof').style.color = 'var(--green)';
+    }
+
+    // ─── FORM: SEND ───────────────────────────────────
+    async function handleSend(e) {
+      e.preventDefault();
+      const email = document.getElementById('send-email').value.trim();
+      if (!email) return showToast('Email wajib diisi.', 'error');
+      if (document.getElementById('hp-send').value) return;
+
+      setLoading('send', true);
+      document.getElementById('post-send-banner').classList.remove('show');
+
+      try {
+        const fp = await getFingerprint();
+        const ts = Date.now();
+        const sig = await sha256(`${fp}:${ts}:send:${SALT}`);
+        const res = await fetch('/api/premium-proxy', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          credentials: 'include',
+          body: JSON.stringify({ action: 'send', email, _sec: { fp, ts, sig } })
+        });
+        const data = await res.json().catch(() => ({ success: true }));
+        if (res.ok && data.success !== false) {
+          showToast(data.data?.message || 'Link berhasil dikirim!', 'success');
+          document.getElementById('post-send-banner').classList.add('show');
+          startMagicTimer();
+          unlockStep2();
+        } else {
+          showToast(data.message || 'Gagal mengirim link.', 'error');
+        }
+      } catch { showToast('Gagal menghubungi server. Periksa koneksi.', 'error'); }
+      finally { setLoading('send', false); }
+    }
+
+    // ─── FORM: VERIFY ────────────────────────────────
+    async function handleVerify(e) {
+      e.preventDefault();
+      const email = document.getElementById('verify-email').value.trim();
+      const link  = document.getElementById('verify-link').value.trim();
+      if (!email || !link) return showToast('Email dan Link wajib diisi.', 'error');
+      if (document.getElementById('hp-verify').value) return;
+      if (!canVerifyToday()) return showToast('Batas aktivasi harian tercapai (maks 2x/hari).', 'error');
+
+      setLoading('verify', true);
+      try {
+        const fp = await getFingerprint();
+        const ts = Date.now();
+        const sig = await sha256(`${fp}:${ts}:verify:${SALT}`);
+        const res = await fetch('/api/premium-proxy', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          credentials: 'include',
+          body: JSON.stringify({ action: 'verify', email, link, _sec: { fp, ts, sig } })
+        });
+        const data = await res.json().catch(() => null);
+        if (res.ok && data && data.success !== false) {
+          const v = data.data || {};
+          const now = new Date();
+          const yr = new Date(now); yr.setFullYear(now.getFullYear()+1);
+          activeLicense = {
+            email,
+            order_id: v.order_id || 'AM-'+Math.floor(100000+Math.random()*900000),
+            uid: v.uid || 'AM_'+Math.floor(1e8+Math.random()*9e8),
+            validUntil: yr.toLocaleDateString('id-ID',{day:'numeric',month:'long',year:'numeric'}),
+            dateStr: now.toLocaleDateString('id-ID',{day:'numeric',month:'short',year:'numeric'})
+          };
+          recordVerifyToday(); updateQuotaUI();
+          showToast('Aktivasi Berhasil! Membuka sertifikat...', 'success');
+          unlockStep3();
+          setTimeout(() => switchStep('proof'), 600);
+        } else {
+          showToast(data?.message || 'Aktivasi gagal. Pastikan link belum kedaluwarsa.', 'error');
+        }
+      } catch { showToast('Terjadi kesalahan saat aktivasi.', 'error'); }
+      finally { setLoading('verify', false); }
+    }
+
+    function setLoading(action, on) {
+      const btn = document.getElementById('btn-'+action);
+      btn.disabled = on;
+      document.getElementById('btn-'+action+'-text').textContent = on ? 'Memproses...' : (action==='send'?'Kirim Magic Link Verifikasi':'Aktifkan Lisensi Premium Sekarang');
+      document.getElementById('btn-'+action+'-icon').style.display = on ? 'none' : '';
+      document.getElementById('btn-'+action+'-spin').style.display = on ? '' : 'none';
+    }
+
+    async function pasteLink() {
+      try {
+        const t = await navigator.clipboard.readText();
+        if (t) { document.getElementById('verify-link').value = t; showToast('Link berhasil ditempel!','success'); }
+        else showToast('Clipboard kosong.','error');
+      } catch { showToast('Gunakan tempel manual (tahan kolom → Paste).','error'); }
+    }
+
+    // ─── QUOTA ───────────────────────────────────────
+    function getTodayKey() { const d=new Date(); return `am_prem_verify_${d.getFullYear()}_${d.getMonth()+1}_${d.getDate()}`; }
+    function getTodayCount() { return parseInt(localStorage.getItem(getTodayKey())||'0',10); }
+    function canVerifyToday() { return getTodayCount()<2; }
+    function recordVerifyToday() { localStorage.setItem(getTodayKey(),String(getTodayCount()+1)); }
+    function updateQuotaUI() {
+      const el = document.getElementById('quota-badge');
+      if (el) { const r=Math.max(0,2-getTodayCount()); el.textContent=`${r}/2 Hari Ini`; }
+    }
+
+    // ─── CANVAS PROOF ─────────────────────────────────
+    function renderProofCanvas() {
+      const canvas = document.getElementById('proof-canvas');
+      if (!canvas) return;
+      const ctx = canvas.getContext('2d');
+      const W = canvas.width, H = canvas.height;
+
+      function rr(x,y,w,h,r,fill,stroke,sw) {
+        ctx.beginPath();
+        ctx.moveTo(x+r,y); ctx.lineTo(x+w-r,y); ctx.quadraticCurveTo(x+w,y,x+w,y+r);
+        ctx.lineTo(x+w,y+h-r); ctx.quadraticCurveTo(x+w,y+h,x+w-r,y+h);
+        ctx.lineTo(x+r,y+h); ctx.quadraticCurveTo(x,y+h,x,y+h-r);
+        ctx.lineTo(x,y+r); ctx.quadraticCurveTo(x,y,x+r,y);
+        ctx.closePath();
+        if(fill){ctx.fillStyle=fill;ctx.fill();}
+        if(stroke){ctx.strokeStyle=stroke;ctx.lineWidth=sw||1;ctx.stroke();}
+      }
+
+      const bg = ctx.createLinearGradient(0,0,W,H);
+      bg.addColorStop(0,'#05100c'); bg.addColorStop(1,'#0a1a22');
+      ctx.fillStyle=bg; ctx.fillRect(0,0,W,H);
+
+      const glow = ctx.createRadialGradient(W/2,0,0,W/2,0,W*0.6);
+      glow.addColorStop(0,'rgba(45,212,148,0.14)'); glow.addColorStop(1,'transparent');
+      ctx.fillStyle=glow; ctx.fillRect(0,0,W,H);
+
+      ctx.strokeStyle='rgba(45,212,148,0.05)'; ctx.lineWidth=1;
+      for(let x=0;x<W;x+=32){ctx.beginPath();ctx.moveTo(x,0);ctx.lineTo(x,H);ctx.stroke();}
+      for(let y=0;y<H;y+=32){ctx.beginPath();ctx.moveTo(0,y);ctx.lineTo(W,y);ctx.stroke();}
+
+      rr(16,16,W-32,H-32,20,null,'rgba(45,212,148,0.25)',1.5);
+
+      const hdr = ctx.createLinearGradient(0,0,W,0);
+      hdr.addColorStop(0,'rgba(45,212,148,0.16)'); hdr.addColorStop(0.5,'rgba(255,107,87,0.14)'); hdr.addColorStop(1,'rgba(155,140,255,0.16)');
+      rr(16,16,W-32,70,20,hdr);
+      ctx.fillStyle='rgba(45,212,148,0.15)'; ctx.fillRect(16,66,W-32,20);
+
+      ctx.fillStyle='#2dd494'; ctx.font='bold 14px "JetBrains Mono",monospace';
+      ctx.fillText('SERTIFIKAT DIGITAL ALIGHT MOTION PRO',38,58);
+
+      rr(W-160,30,120,28,8,'rgba(45,212,148,0.15)','rgba(45,212,148,0.4)',1);
+      ctx.fillStyle='#2dd494'; ctx.font='bold 12px "JetBrains Mono",monospace';
+      ctx.textAlign='center'; ctx.fillText('✓ PRO ACTIVE',W-100,49); ctx.textAlign='left';
+
+      const lg2 = ctx.createLinearGradient(0,0,W,0);
+      lg2.addColorStop(0,'transparent'); lg2.addColorStop(0.3,'#2dd494'); lg2.addColorStop(0.7,'#9b8cff'); lg2.addColorStop(1,'transparent');
+      ctx.strokeStyle=lg2; ctx.lineWidth=1; ctx.beginPath(); ctx.moveTo(40,100); ctx.lineTo(W-40,100); ctx.stroke();
+
+      const fields = [
+        ['EMAIL AKUN', activeLicense.email||'—'],
+        ['STATUS LISENSI', 'Aktif 1 Tahun Penuh'],
+        ['UID AKUN', activeLicense.uid||'—'],
+        ['ORDER ID', activeLicense.order_id||'—'],
+        ['BERLAKU SAMPAI', activeLicense.validUntil||'—'],
+        ['TGL AKTIVASI', activeLicense.dateStr||'—'],
+      ];
+      let y=130;
+      fields.forEach(([label,value])=>{
+        ctx.fillStyle='#4a5c55'; ctx.font='11px "JetBrains Mono",monospace'; ctx.fillText(label,38,y);
+        ctx.fillStyle='#eef7f3'; ctx.font='bold 14px "JetBrains Mono",monospace'; ctx.fillText(value,38,y+20);
+        y+=52;
+      });
+
+      ctx.fillStyle='rgba(45,212,148,0.08)'; ctx.fillRect(38,H-190,W-76,2);
+      ctx.fillStyle='#2dd494'; ctx.font='bold 11px "JetBrains Mono",monospace'; ctx.fillText('FITUR AKTIF:',38,H-170);
+      const feats=['Tanpa Watermark & Bebas Iklan','Support Preset XML & 5MB+','Semua Efek VIP Terbuka','Ekspor 4K 60FPS','Penyimpanan Cloud 100GB','Fitur Kamera 3D & Layer Parenting'];
+      const col=Math.ceil(feats.length/2);
+      feats.forEach((f,i)=>{
+        const cx=i<col?38:W/2+10; const cy=H-148+(i%col)*22;
+        ctx.fillStyle='#2dd494'; ctx.font='10px monospace'; ctx.fillText('✓',cx,cy);
+        ctx.fillStyle='#9db3ab'; ctx.font='11px "Manrope",sans-serif'; ctx.fillText(f,cx+16,cy);
+      });
+
+      ctx.fillStyle='rgba(255,255,255,0.04)'; ctx.fillRect(16,H-36,W-32,20);
+      ctx.fillStyle='#4a5c55'; ctx.font='10px "JetBrains Mono",monospace'; ctx.textAlign='center';
+      ctx.fillText('Verified by Saurus Portal · am-prem.saurus.dev · © 2026',W/2,H-22);
+      ctx.textAlign='left';
+    }
+
+    function downloadProof() {
+      const a = document.createElement('a');
+      a.download = `AM-Premium-${activeLicense.order_id||'Sertifikat'}.png`;
+      a.href = document.getElementById('proof-canvas').toDataURL('image/png');
+      a.click();
+      showToast('Gambar sertifikat berhasil disimpan!','success');
+    }
+
+    function copyProof() {
+      const t = `=== ALIGHT MOTION PRO - 1 TAHUN ===\nEmail: ${activeLicense.email}\nStatus: Aktif 1 Tahun\nUID: ${activeLicense.uid}\nOrder ID: ${activeLicense.order_id}\nBerlaku s/d: ${activeLicense.validUntil}\n\nFitur: Tanpa Watermark, Efek VIP, 4K 60FPS, Cloud 100GB\nVerified by Saurus Portal`;
+      navigator.clipboard.writeText(t).then(()=>showToast('Rincian berhasil disalin!','success'));
+    }
+
+    // ─── REAL-TIME SERVER STATUS & LATENCY CHECKER ───
+    let isCheckingHealth = false;
+
+    async function checkServerHealth(manual=false) {
+      if (isCheckingHealth) return;
+      isCheckingHealth = true;
+
+      const dot = document.getElementById('ping-badge-dot');
+      const coreStatus = document.getElementById('ping-core-status');
+      const latText = document.getElementById('ping-latency-text');
+      const proxyText = document.getElementById('proxy-status-text');
+      const pill = document.getElementById('header-status-pill');
+      const pillText = document.getElementById('header-status-text');
+
+      if (manual && latText) {
+        latText.textContent = 'pinging...';
+      }
+
+      const t0 = performance.now();
+      try {
+        const res = await fetch(`/api/premium-proxy?ping=1&_t=${Date.now()}`, {
+          method: 'GET',
+          cache: 'no-store'
+        });
+        const latency = Math.round(performance.now() - t0);
+
+        if (res.ok) {
+          if (latency < 450) {
+            if (dot) dot.className = 'status-badge-dot';
+            if (coreStatus) { coreStatus.textContent = 'Online'; coreStatus.style.color = '#2dd494'; }
+            if (pill) pill.className = 'pill pill-online';
+            if (pillText) pillText.textContent = 'Online';
+            if (proxyText) { proxyText.textContent = 'Normal'; proxyText.style.color = '#34d399'; }
+          } else {
+            if (dot) dot.className = 'status-badge-dot slow';
+            if (coreStatus) { coreStatus.textContent = 'Online'; coreStatus.style.color = '#f5b942'; }
+            if (pill) pill.className = 'pill pill-online warning';
+            if (pillText) pillText.textContent = 'Lambat';
+            if (proxyText) { proxyText.textContent = 'Sibuk'; proxyText.style.color = '#f5b942'; }
+          }
+          if (latText) latText.textContent = `${latency}ms`;
+          if (manual) showToast(`Server AM Core aktif (${latency}ms) - Proxy Normal`, 'success');
+        } else {
+          throw new Error('HTTP ' + res.status);
+        }
+      } catch (err) {
+        const latency = Math.round(performance.now() - t0);
+        if (dot) dot.className = 'status-badge-dot slow';
+        if (coreStatus) { coreStatus.textContent = 'Standby'; coreStatus.style.color = '#f5b942'; }
+        if (pill) pill.className = 'pill pill-online warning';
+        if (pillText) pillText.textContent = 'Standby';
+        if (latText) latText.textContent = `${latency || 60}ms`;
+        if (proxyText) { proxyText.textContent = 'Fallback'; proxyText.style.color = '#f5b942'; }
+        if (manual) showToast('Koneksi proxy dialihkan ke mode fallback standby.', 'error');
+      } finally {
+        isCheckingHealth = false;
+      }
+    }
+
+    // ─── LIVE LOGS ────────────────────────────────────
+    async function fetchLogs(showFeedback=false) {
+      if (isFetchingLogs) return;
+      isFetchingLogs = true;
+      const btn = document.getElementById('btn-refresh');
+      const icon = document.getElementById('icon-refresh');
+      if (btn) btn.disabled = true;
+      if (icon) icon.classList.add('fa-spin');
+
+      try {
+        const controller = new AbortController();
+        const timeoutId = setTimeout(() => controller.abort(), 12000);
+        let res;
+        try {
+          res = await fetch(`/api/am-logs?_t=${Date.now()}`, { signal: controller.signal, cache: 'no-store' });
+        } finally {
+          clearTimeout(timeoutId);
+        }
+
+        if (!res.ok) throw new Error('HTTP ' + res.status);
+
+        const json = await res.json();
+
+        if (json && json.data) {
+          renderLogs(json.data);
+          const sync = document.getElementById('logs-sync');
+          if (sync) {
+            const note = json._note ? ` · ${json._note}` : '';
+            sync.textContent = 'Update: ' + new Date().toLocaleTimeString('id-ID',{hour:'2-digit',minute:'2-digit',second:'2-digit'}) + note;
+          }
+          if (showFeedback) showToast('Logs berhasil diperbarui.','success');
+        } else {
+          console.warn('[Logs] Unexpected structure:', json);
+          if (showFeedback) showToast('Format logs tidak dikenali.','error');
+        }
+      } catch (err) {
+        console.warn('[Logs] Fetch error:', err.message);
+        const c = document.getElementById('logs-container');
+        if (c && c.innerHTML.includes('skeleton')) {
+          c.innerHTML = `<div style="padding:24px;text-align:center;background:rgba(255,255,255,0.02);border:1px solid rgba(255,255,255,0.05);border-radius:14px">
+            <i class="fa-solid fa-satellite-dish" style="font-size:24px;color:#33473f;margin-bottom:8px;display:block"></i>
+            <p style="font-size:12px;font-weight:700;color:#5c7268;margin-bottom:4px">Sinkronisasi server...</p>
+            <p style="font-size:11px;color:#33473f;margin-bottom:12px">Logs akan dimuat otomatis dalam 30 detik.</p>
+            <button onclick="fetchLogs(true)" style="padding:6px 14px;border-radius:8px;background:rgba(45,212,148,0.08);border:1px solid rgba(45,212,148,0.2);color:var(--teal);font-size:11px;cursor:pointer;font-family:inherit"><i class="fa-solid fa-rotate-right"></i> Coba Lagi</button>
+          </div>`;
+        }
+        if (showFeedback) showToast('Koneksi ke server logs timeout — akan retry otomatis.','error');
+      } finally {
+        isFetchingLogs = false;
+        if (btn) btn.disabled = false;
+        if (icon) icon.classList.remove('fa-spin');
+      }
+    }
+
+    function renderLogs(data) {
+      const stats = data.stats || {};
+      const logs  = data.logs  || [];
+
+      const el = (id,v) => { const e=document.getElementById(id); if(e) e.textContent=v; };
+      el('stat-total',   stats.total   ?? logs.length);
+      el('stat-success', stats.success ?? 0);
+      el('stat-send',    stats.send    ?? 0);
+      el('stat-verify',  stats.verify  ?? 0);
+
+      const sync = document.getElementById('logs-sync');
+      if (sync) sync.textContent = 'Update: ' + new Date().toLocaleTimeString('id-ID',{hour:'2-digit',minute:'2-digit',second:'2-digit'});
+      const cnt = document.getElementById('logs-count');
+      if (cnt) cnt.textContent = `(${logs.length} entri)`;
+
+      const container = document.getElementById('logs-container');
+      if (!container) return;
+
+      if (!logs.length) {
+        container.innerHTML = `<div style="padding:32px;text-align:center;background:rgba(255,255,255,0.02);border:1px solid rgba(255,255,255,0.05);border-radius:14px">
+          <i class="fa-regular fa-clipboard" style="font-size:28px;color:#33473f;margin-bottom:8px;display:block"></i>
+          <p style="font-size:12px;font-weight:700;color:#5c7268;margin-bottom:4px">Belum Ada Log</p>
+          <p style="font-size:11px;color:#33473f">Aktivitas akan muncul di sini secara realtime.</p>
+        </div>`;
+        return;
+      }
+
+      container.innerHTML = logs.map(item => {
+        const isVerify = item.action === 'verify';
+        const isOk     = item.status === 'success';
+        const meta     = item.data || {};
+        const email    = item.email || meta.email_masked || 'Pengguna AM';
+
+        const actionBadge = isVerify
+          ? `<span class="badge badge-verify"><i class="fa-solid fa-bolt" style="font-size:8px"></i>AKTIVASI</span>`
+          : `<span class="badge badge-send"><i class="fa-solid fa-paper-plane" style="font-size:8px"></i>KIRIM LINK</span>`;
+        const statusBadge = isOk
+          ? `<span class="badge badge-success"><i class="fa-solid fa-circle-check" style="font-size:9px"></i>BERHASIL</span>`
+          : `<span class="badge badge-fail"><i class="fa-solid fa-circle-xmark" style="font-size:9px"></i>GAGAL</span>`;
+
+        let metaHtml = '';
+        if (meta.order_id || meta.uid) {
+          metaHtml = `<div class="log-meta-row">
+            ${meta.order_id ? `<div class="log-meta-item">Order <span>${meta.order_id}</span></div>` : ''}
+            ${meta.uid ? `<div class="log-meta-item" style="overflow:hidden">UID <span style="color:var(--teal)">${meta.uid}</span></div>` : ''}
+          </div>`;
+        } else if (meta.message) {
+          metaHtml = `<div style="margin-top:8px;padding-top:8px;border-top:1px solid rgba(255,255,255,0.05);font-size:10px;color:#4a5c55;display:flex;align-items:center;gap:5px">
+            <i class="fa-solid fa-info-circle" style="color:var(--teal);font-size:10px"></i>${meta.message}
+          </div>`;
+        }
+
+        return `<div class="log-item">
+          <div class="log-row1">
+            <div class="log-badges">${actionBadge}${statusBadge}</div>
+            <span class="log-time">${item.timestamp||''}</span>
+          </div>
+          <div class="log-email-row">
+            <div class="log-email"><i class="fa-regular fa-envelope"></i>${email}</div>
+            ${meta.is_new_user ? '<span class="badge badge-new">New User</span>' : ''}
+          </div>
+          ${metaHtml}
+        </div>`;
+      }).join('');
+    }
+
+    // ─── WA MODAL (global scope so SPA nav keeps them available) ───
+    window.openWaModal  = function() {
+      const m = document.getElementById('wa-modal');
+      if (m) m.classList.add('open');
+    };
+    window.closeWaModal = function() {
+      const m = document.getElementById('wa-modal');
+      if (m) m.classList.remove('open');
+    };
+
+    // ─── MAGIC LINK EXPIRED POPUP ────────────────────
+    window.closeMagicExpired = function() {
+      const m = document.getElementById('magic-expired-modal');
+      if (m) m.classList.remove('open');
+    };
+
+    let magicTimerInterval = null;
+    const MAGIC_LINK_DURATION = 300; // 5 minutes in seconds
+
+    function startMagicTimer() {
+      if (magicTimerInterval) clearInterval(magicTimerInterval);
+
+      let remaining = MAGIC_LINK_DURATION;
+      const CIRCUMFERENCE = 2 * Math.PI * 19; // r=19
+
+      const display  = document.getElementById('timer-display');
+      const ring     = document.getElementById('timer-ring');
+      const icon     = document.getElementById('timer-icon');
+
+      function tick() {
+        if (!display || !ring) return;
+
+        const m = Math.floor(remaining / 60);
+        const s = remaining % 60;
+        display.textContent = `${String(m).padStart(2,'0')}:${String(s).padStart(2,'0')}`;
+
+        const progress = remaining / MAGIC_LINK_DURATION;
+        ring.style.strokeDashoffset = String(CIRCUMFERENCE * (1 - progress));
+
+        // Color transitions: green → amber → red
+        if (remaining > 180) {
+          ring.style.stroke = '#2dd494';
+          if (display) display.style.color = '#2dd494';
+        } else if (remaining > 60) {
+          ring.style.stroke = '#f5b942';
+          if (display) display.style.color = '#f5b942';
+        } else {
+          ring.style.stroke = '#ff6b57';
+          if (display) display.style.color = '#ff6b57';
+          if (icon) icon.style.color = '#ff6b57';
+        }
+
+        if (remaining <= 0) {
+          clearInterval(magicTimerInterval);
+          magicTimerInterval = null;
+          // Show expired modal
+          const expiredModal = document.getElementById('magic-expired-modal');
+          if (expiredModal) {
+            expiredModal.classList.add('open');
+          }
+          // Collapse the send banner
+          const banner = document.getElementById('post-send-banner');
+          if (banner) banner.classList.remove('show');
+          return;
+        }
+
+        remaining--;
+      }
+
+      tick(); // run immediately
+      magicTimerInterval = setInterval(tick, 1000);
+    }
+
+    // ─── TOAST ───────────────────────────────────────
+    function showToast(msg, type='success') {
+      const t = document.createElement('div');
+      t.className = `toast ${type}`;
+      t.innerHTML = `<i class="fa-solid ${type==='success'?'fa-circle-check':'fa-triangle-exclamation'}"></i><span>${msg}</span>`;
+      document.getElementById('toast-container').appendChild(t);
+      setTimeout(() => t.remove(), 4000);
+    }
+
+    // ─── CHECK USER SESSION ──────────────────────────
+    async function checkUserSession() {
+      try {
+        const res = await fetch('/api/session', { method: 'GET', credentials: 'include' });
+        const data = await res.json();
+        if (data && data.loggedIn) {
+          const badge = document.getElementById('header-session-badge');
+          const text = document.getElementById('header-session-text');
+          const quotaBadge = document.getElementById('quota-badge');
+          if (badge && text) {
+            badge.href = data.role === 'ENTERPRISE' ? '/enterprise' : '/vip';
+            badge.style.display = 'inline-flex';
+            if (data.role === 'ENTERPRISE') {
+              text.innerHTML = '<i class="fa-solid fa-rocket" style="color:#ef4444;font-size:9px"></i> ENTERPRISE';
+              if (quotaBadge) quotaBadge.textContent = 'Unlimited (Enterprise)';
+            } else if (data.role === 'VIP') {
+              text.innerHTML = `<i class="fa-solid fa-crown" style="color:#ff79c6;font-size:9px"></i> VIP (${data.coin || 0} Coin)`;
+              if (quotaBadge) quotaBadge.textContent = `${data.coin || 0} Coin Tersedia`;
+            }
+          }
+        }
+      } catch {}
+    }
+
+    // ─── INIT ─────────────────────────────────────────
+    document.addEventListener('DOMContentLoaded', () => {
+      checkUserSession();
+      updateQuotaUI();
+      checkServerHealth();
+      fetchLogs();
+
+      logsTimer = setInterval(fetchLogs, 30000);
+      setInterval(checkServerHealth, 45000);
+    });
+  </script>
+  <!-- Persistent Music Player -->
+  <script src="/music-player.js"></script>
+</body>
+</html>
